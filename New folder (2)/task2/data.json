@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "fname": "Ahmed",
+        "lname": "Adel",
+        "age": "21",
+        "city": "egypt"
+    },
+    {
+        "id": 2,
+        "fname": "Sarah",
+        "lname": "Ahmed",
+        "age": "25",
+        "city": "Egypt"
+    },
+    {
+        "id": 3,
+        "fname": "Rana",
+        "lname": "Mohamed",
+        "age": "30",
+        "city": "Egypt"
+    },
+    {
+        "id": 4,
+        "fname": "Mohamed",
+        "lname": "Ahmed",
+        "age": "28",
+        "city": "Egypt"
+    },
+    {
+        "id": 5,
+        "fname": "Ahmed",
+        "lname": "Mohamed",
+        "age": "32",
+        "city": "Egypt"
+    },
+    {
+        "id": 6,
+        "fname": "Jane",
+        "lname": "Ahmed",
+        "age": "35",
+        "city": "Egypt"
+    },
+    {
+        "id": 7,
+        "fname": "Ahmed",
+        "lname": "Ali",
+        "age": "35",
+        "city": "Egypt"
+    }
+]
